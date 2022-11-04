@@ -1,0 +1,21 @@
+.mylogo {
+  border: 0;
+  height: 25px;
+  width: auto;
+  margin-left: 24px;
+  margin-right: 20px;
+}
+
+.mybtn,
+.mybtn:hover {
+  background-color: #f26d21;
+  border-color: #f26d21;
+}
+
+body {
+  background-color: #f6f7f9;
+}
+
+.bg-img {
+  background-image: url(../Zoom/images/expo-slider-gif.gif);
+}
